@@ -1,0 +1,5 @@
+COSTS A B C SUPPLY
+Source1 6 8 10 30	
+Source2 7 11 11 40
+Source3 4 5 12 50
+DEMAND 40 20 60
