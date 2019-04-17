@@ -1,1 +1,2 @@
-# minimumCellCost-steppingStone_Transportation_Problem
+#minimumCellCost-steppingStone_Transportation_Problem
+In this assignment, we study the classic problem of transporting goods to places where they are in demand. Suppose we have a number of factories, located in different locations and each having a certain production capacity. The goods produced must be sent to warehouses that are also located around the world and that, depending on demand, require a certain amount of goods.
